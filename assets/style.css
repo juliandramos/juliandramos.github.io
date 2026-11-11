@@ -15,3 +15,5 @@ h2{font-size:24px;font-weight:500;margin-top:38px}h3{font-size:19px;font-weight:
 .author-inline{color:var(--purple);font-size:.85em;font-weight:400}.research-image.rounded-research{border-radius:18px}
 
 header{border-bottom:3px solid var(--purple)}.profile-links span{width:24px}.research-image.rounded-research{margin-top:0;margin-bottom:25px}
+
+.profile-links a[href^="mailto:"]{overflow-wrap:anywhere}
